@@ -14,7 +14,6 @@ To provide persistence over power cycles, the controller maintains the user-sele
 
 This project offers a realistic depiction of a vehicle air conditioning systems by integrating sensing, user interface, control logic, and actuation.  It demonstrates how embedded systems are utilized in industrial applications to control comfort settings, react to user input, and provide dependable, real-time control.
 
-* Identify the system/product using any applicable names and/or version numbers.
 
 ### Purpose
 
