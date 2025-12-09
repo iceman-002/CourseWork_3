@@ -1,0 +1,11 @@
+Part,Description,Quantity,Manufacturer,Part Number,Datasheet,Price (EGP),Total Price (EGP)
+Microcontroller Board,"Arduino Uno R3 (ATmega328P)",1,Arduino / Generic,"Uno R3","https://docs.arduino.cc/resources/datasheets/A000066-datasheet.pdf",500.00,500.00
+LCD Display,"16x2 Character LCD Display (Blue Backlight)",1,Generic,"1602A","https://www.sparkfun.com/datasheets/LCD/GDM1602K.pdf",120.00,120.00
+I2C Interface,"I2C Serial Interface Adapter Module (PCF8574)",1,Generic,"PCF8574","https://www.ti.com/lit/ds/symlink/pcf8574.pdf",40.00,40.00
+Keypad,"4x3 Matrix Membrane Keypad",1,Generic,"N/A","N/A",35.00,35.00
+Temperature Sensor,"Precision Centigrade Temperature Sensors",1,N/A,"LM35DZ","https://www.ti.com/lit/ds/symlink/lm35.pdf",50.00,50.00
+DC Motor,"toy car 5v DC Motor",1,Generic,"TT-130","N/A",20.00,20.00
+Motor Driver,"L298N Dual H-Bridge Motor Driver Module",1,N/A,"L298N Module","https://www.sparkfun.com/datasheets/Robotics/L298_H_Bridge.pdf",90.00,90.00
+Jumper Wires,"Dupont Wires (Male-Male & Male-Female) Pack",1,Generic,"N/A","N/A",60.00,60.00
+Breadboard,"Solderless Breadboard (830 Tie-Points)",1,Generic,"MB-102","N/A",80.00,80.00
+USB Cable for arduino,"USB Type-A to Type-B Cable",1,Generic,"N/A","N/A",30.00,30.00

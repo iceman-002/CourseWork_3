@@ -1,0 +1,17 @@
+Part,Description,Quantity,Manufacturer,Part Number,Datasheet,Price (EGP),Total Price (EGP)
+AVR Controller,"ATmega328P-PU (DIP-28)",1,Microchip,"ATmega328P","http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf",150.00,150.00
+Motor Driver IC,"L293D H-Bridge Driver (Replaces L298N)",1,STMicroelectronics,"L293D","https://www.ti.com/lit/ds/symlink/l293.pdf",25.00,25.00
+I2C Interface,"I2C Serial Interface Adapter Module (PCF8574)",1,Generic,"PCF8574","https://www.ti.com/lit/ds/symlink/pcf8574.pdf",40.00,40.00
+Temp Sensor,"Precision Centigrade Temperature Sensors",1,N/A,"LM35DZ","https://www.ti.com/lit/ds/symlink/lm35.pdf",50.00,50.00
+LCD Display,"16x2 Character LCD Display (Blue Backlight)",1,Generic,"1602A","https://www.sparkfun.com/datasheets/LCD/GDM1602K.pdf",120.00,120.00
+Crystal Oscillator,"16MHz Crystal",1,Generic,"HC-49S","N/A",5.00,5.00
+Voltage Regulator,"5V Linear Regulator",1,STMicroelectronics,"L7805CV","https://www.st.com/resource/en/datasheet/l78.pdf",10.00,10.00
+Ceramic Capacitor,"22pF (For Crystal)",2,Generic,"N/A","N/A",0.50,1.00
+Decoupling Capacitor,"100nF (0.1uF)",3,Generic,"N/A","N/A",0.50,1.50
+Electrolytic Capacitor,"10uF, 16V",2,Generic,"N/A","N/A",1.00,2.00
+Resistor,"10k Ohm (Reset Pull-up)",1,Generic,"N/A","N/A",0.25,0.25
+Switch,"Tactile Push Button Switch (Reset)",1,Generic,"N/A","N/A",1.00,1.00
+DC Motor,"toy car 5v DC Motor",1,Generic,"TT-130","N/A",20.00,20.00
+Keypad,"4x3 Matrix Membrane Keypad",1,Generic,"N/A","N/A",35.00,35.00
+Jumper Wires,"Dupont Wires (Male-Male & Male-Female) Pack",1,Generic,"N/A","N/A",60.00,60.00
+PCB/Perfboard,"Prototyping Perfboard (Replaces Breadboard)",1,Generic,"N/A","N/A",20.00,20.00
